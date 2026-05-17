@@ -114,7 +114,7 @@ pip install mootdx requests pandas stockstats
 
 ### 鉴权要求
 
-12 个数据源**完全免费无 Key**（mootdx / 腾讯 / 东财 / 同花顺 / 百度股市通 / 新浪 / 财联社 / 巨潮），仅 iwencai 语义搜索需要 API Key（[申请地址](https://www.iwencai.com/skillhub)）。
+除 iwencai 外，其余所有数据源**完全免费无 Key**。仅 iwencai 语义搜索需要 API Key（[申请地址](https://www.iwencai.com/skillhub)）。
 
 ---
 
@@ -377,7 +377,7 @@ Launch Claude Code and say "Check the valuation of 688017" — the skill activat
 
 ### Authentication
 
-12 data sources are **completely free, no API key needed** (mootdx / Tencent / Eastmoney / THS / Baidu / Sina / CLS / cninfo). Only iwencai semantic search requires an API key ([apply here](https://www.iwencai.com/skillhub)).
+All data sources except iwencai are **completely free, no API key needed**. Only iwencai semantic search requires an API key ([apply here](https://www.iwencai.com/skillhub)).
 
 ---
 
