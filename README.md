@@ -12,22 +12,6 @@ A 股全栈数据工具包 — 7 层架构 · 28 个端点 · 13 个数据源 ·
 
 ---
 
-## Donate
-
-如果这个工具帮到了你的投研工作流，欢迎请作者喝杯咖啡 ☕
-
-<p align="center">
-  <img src="./assets/wechat-sponsor.jpg" width="240" alt="微信赞赏码">
-</p>
-<p align="center">
-  <a href="https://ifdian.net/a/simonlin">爱发电</a> ·
-  <a href="https://buymeacoffee.com/simonlin1212">Buy Me a Coffee</a>
-</p>
-
-> 想要什么数据端点？欢迎开 [Issue](https://github.com/simonlin1212/a-stock-data/issues) 提需求，赞助者的 Issue 优先处理。
-
----
-
 ## 架构
 
 ```
@@ -241,6 +225,22 @@ V2.1 改为本地自缓存。每次调用自动积累，越跑越丰富。首次
 ## 更新日志
 
 见 [CHANGELOG.md](./CHANGELOG.md)。
+
+---
+
+## Donate
+
+如果这个工具帮到了你的投研工作流，欢迎请作者喝杯咖啡 ☕
+
+<p align="center">
+  <img src="./assets/wechat-sponsor.jpg" width="240" alt="微信赞赏码">
+</p>
+<p align="center">
+  <a href="https://ifdian.net/a/simonlin">爱发电</a> ·
+  <a href="https://buymeacoffee.com/simonlin1212">Buy Me a Coffee</a>
+</p>
+
+> 想要什么数据端点？欢迎开 [Issue](https://github.com/simonlin1212/a-stock-data/issues) 提需求，赞助者的 Issue 优先处理。
 
 ---
 
